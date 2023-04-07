@@ -39,7 +39,10 @@ if(percentage >= 35){
 
 var Arr = ["Noman","Ali","Asim","Yaseer","Ameen"];
 
+console.log(Arr[3]);
+
 console.log(Arr);
+
 
 Arr[8] = "Usman";
 
